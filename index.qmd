@@ -21,13 +21,22 @@ format:
 
 ## Inhalt
 
+::: columns
+::: {.column width="75%"}
+
 -   Holz in der römischer Zeit
 -   Daten und Interdizicplinarität
 -   Herkunft: Dendroprovenance
--   Netzwerk Analyse Jahrringdaten
+-   Netzwerkanalyse Jahrringdaten
 -   Archäologische Interpretation
--   Transport
+-   Holztransport
 -   Abschluss
+
+:::
+::: {.column width="25%"}
+![Link to this presentation](images/qr_presentation.png)
+:::
+:::
 
 ## Holz: primäre Ressource
 
@@ -42,11 +51,11 @@ format:
     -   Tools
 :::
 
-![[Source: @visser2025, Figure 04.05]](images/Figure_04.05_CoppicedOak_Laarsenberg(NL)_new.JPG){width="50%" fig-align="left" cap-skip="0pt"}
+![[Quelle: @visser2025, Figure 04.05]](images/Figure_04.05_CoppicedOak_Laarsenberg(NL)_new.JPG){width="50%" fig-align="left" cap-skip="0pt"}
 :::
 
 ::: {.column width="35%"}
-![[Source: @visser2025, Figure 06.07]](images/Figure_06.07_Post_ForumHadriani.JPG)
+![[Quelle: @visser2025, Figure 06.07]](images/Figure_06.07_Post_ForumHadriani.JPG)
 :::
 :::
 
@@ -69,13 +78,13 @@ format:
 :::
 
 ::: {.column width="40%"}
-![[Source: @visser2025, Figure 01.01]](images/Figure_01.01_Research_area_print.png)
+![[Quelle: @visser2025, Figure 01.01]](images/Figure_01.01_Research_area_print.png)
 :::
 :::
 
 ## Interdisziplinarität
 
-![[Source: @visser2025, Figure 03.02]](images/Figure_03.02_Data_sources.png){fig-align="center"}
+![[Quelle: @visser2025, Figure 03.02]](images/Figure_03.02_Data_sources.png){fig-align="center"}
 
 ## Dendrochronologische Daten: "bias"
 
@@ -88,7 +97,7 @@ format:
 ![](images/Figure_03.17_number_tree_rings_year.png)
 
 ::: {style="font-size: 60%;"}
-[Source right figure: @visser2025, Figure 03.17] [Source left figure: @visser2025, Figure 03.10]
+[Quelle right figure: @visser2025, Figure 03.17] [Quelle left figure: @visser2025, Figure 03.10]
 :::
 
 *Sparse big data*:
@@ -101,7 +110,7 @@ format:
 
 ## Forschungsgeschichte (NL)
 
-![[Source: @visser2025, Figure 03.19]](images/Figure_03.19_tree_ring_research_vs_arch_research_nl.png)
+![[Quelle: @visser2025, Figure 03.19]](images/Figure_03.19_tree_ring_research_vs_arch_research_nl.png)
 
 # Herkunftbestimmung {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
 
@@ -125,7 +134,7 @@ format:
 
 ## Lebensgeschichte archaeologisches Holz
 
-![Life history of archaeological wood [Source: @visser2025, Figure 03.05]](images/Figure_03.05_Tree_life_history_2022.png)
+![Life history of archaeological wood [Quelle: @visser2025, Figure 03.05]](images/Figure_03.05_Tree_life_history_2022.png)
 
 ## Dendroprovenance (Herkunftbestimmung)
 
@@ -140,7 +149,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 
 ## Netzwerken zum Herkunftbestimmung
 
-![[Source: @visser2025, Figure 08.10]](images/Figure_08.10_network_4_means_GN_legend.png)
+![[Quelle: @visser2025, Figure 08.10]](images/Figure_08.10_network_4_means_GN_legend.png)
 
 ## Dendrochronologische Netzwerken
 
@@ -157,7 +166,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 :::
 
 ::: {.column width="30%"}
-![[Source: @visser2025, Figure 09.03]](images/Figure_09.03_NetworkExplain.png)
+![[Quelle: @visser2025, Figure 09.03]](images/Figure_09.03_NetworkExplain.png)
 :::
 :::
 
@@ -171,7 +180,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 -   Kontexten
 
 ::: {style="font-size: 60%;"}
-[Figure source: @visser2025, Figure 09.03]
+[Figure Quelle: @visser2025, Figure 09.03]
 :::
 :::
 
@@ -184,17 +193,17 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 
 ::: columns
 ::: {.column width="70%"}
-![[Source: @visser2024a, Figure 2]](images/Figure_2_Network_means_1_transported_with_legend.jpg)
+![[Quelle: @visser2024a, Figure 2]](images/Figure_2_Network_means_1_transported_with_legend.jpg)
 :::
 
 ::: {.column width="30%"}
-![[Source: @visser2024a, Figure 3]](images/Figure_3_transported_bar.jpg)
+![[Quelle: @visser2024a, Figure 3]](images/Figure_3_transported_bar.jpg)
 :::
 :::
 
 ## Model: die römische Holzbeschaffung
 
-![[Source: @visser2025, Figure 10.04]](images/Figure_10.04_TimberEconomy_Models.png)
+![[Quelle: @visser2025, Figure 10.04]](images/Figure_10.04_TimberEconomy_Models.png)
 
 # Transport {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
 
@@ -363,11 +372,11 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 :::
 ::: {.column width="40%"}
 
-![[Source: @visser2025, Figure 10.04]](images/Figure_10.04_TimberEconomy_Models.png)
+![[Quelle: @visser2025, Figure 10.04]](images/Figure_10.04_TimberEconomy_Models.png)
 
-![](images/QR_RelatingRomanRings.png)
+![Link to presentation](images/qr_presentation.png){width="40%"}
 
 :::
 :::
 
-## References {style="font-size: 60%;"}
+## References {style="font-size: 80%;"}
