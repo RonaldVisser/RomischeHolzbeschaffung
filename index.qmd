@@ -374,7 +374,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 
 ![[Quelle: @visser2025, Figure 10.04]](images/Figure_10.04_TimberEconomy_Models.png)
 
-![Link to presentation](images/qr_presentation.png){width="40%"}
+![Presentation: <https://ronaldvisser.github.io/RomischeHolzbeschaffung/>](images/qr_presentation.png){width="40%"}
 
 :::
 :::
