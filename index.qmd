@@ -25,7 +25,7 @@ format:
 ::: {.column width="75%"}
 
 -   Holz in der römischer Zeit
--   Daten und Interdizicplinarität
+-   Daten und Interdisziplinarität
 -   Herkunft: Dendroprovenance
 -   Netzwerkanalyse Jahrringdaten
 -   Archäologische Interpretation
@@ -71,7 +71,7 @@ format:
 
 #### Forschungsfrage
 
--   Wie war die römische Holzbeschaffung während die erste vier Jahrhunderten organisiert in Nordwesteuropa?
+-   Wie war die römische Holzbeschaffung während der ersten vier Jahrhunderte in Nordwesteuropa organisiert?
 
     -   Herkunft
     -   Transport
@@ -118,12 +118,11 @@ format:
 
 ::: columns
 ::: {.column width="60%"}
--   Jährlich wachst ein ring (Kambium: Aussenseite des Bäumes)
+-   Jährlich wachst ein Ring (Kambium: Aussenseite des Bäumes)
 -   Jahrringbreite wird beeinflusst durch
     -   Bodem
     -   Klima
     -   Lokale Faktoren
-    -   Waldstörungen
 -   Wachstum: Frühjahr bis Herbst
 :::
 
@@ -136,31 +135,31 @@ format:
 
 ![Life history of archaeological wood [Quelle: @visser2025, Figure 03.05]](images/Figure_03.05_Tree_life_history_2022.png)
 
-## Dendroprovenance (Herkunftbestimmung)
+## Dendroprovenance (Herkunftsbestimmung)
 
-Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of Jahrringkurven mit (regional)Kalender
+Herkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung der Jahrringkurven mit (regionalen) Kalendern
 
 ### Problemen
 
--   Oft basiert auf nur ein statistische Wert
--   Synchronisierung von nur ein Jahrringkurve
--   Big data -\> Komplex
--   clustering: *common interval* oft Schwierig
+-   Oft basiert auf einen einzigen statistische Wert
+-   Oft nur ein Kontext
+-   Big data -\> komplex
+-   clustering: *common interval* oft schwierig
 
-## Netzwerken zum Herkunftbestimmung
+## Netzwerke zur Herkunftsbestimmung
 
 ![[Quelle: @visser2025, Figure 08.10]](images/Figure_08.10_network_4_means_GN_legend.png)
 
-## Dendrochronologische Netzwerken
+## Dendrochronologische Netzwerke
 
 ::: columns
 ::: {.column width="70%"}
 -   Netzwerkknoten:
     -   Fundortkalender (Dendrochronologische Daten)
--   Netwwerkkanten:
+-   Netzwerkkanten:
     -   statistische Übereinstimmung
 -   Korrelation (r ≥ 0,5)
-    -   Überlappung: Jahrringbreiten (n ≥ 50)
+    -   Überlappung: Anzahl Jahrringbreiten (n ≥ 50)
     -   SGC (Verbesserung der Gleichläufigkeit: ≥ 70% [@visser2021a])
     -   Wahrscheinlichkeit (Probability of exceedence: p \<= 0.0001)
 :::
@@ -170,14 +169,14 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 :::
 :::
 
-## Herkunftbestimmung mit Netzwerke
+## Herkunftsbestimmung mit Netzwerken
 
 ::: columns
 ::: {.column width="50%"}
--   Nah in Netzwerk = ähnliche Wachstumbedingungen
--   *Communities* haben ähnliche Wachstumbedingungen
--   Raumliche Beziehungen / Distanz
--   Kontexten
+-   Nah im Netzwerk = ähnliche Wachstumsbedingungen
+-   *Communities* haben ähnliche Wachstumsbedingungen
+-   Räumliche Beziehungen / Distanz
+-   Kontexte
 
 ::: {style="font-size: 60%;"}
 [Figure Quelle: @visser2025, Figure 09.03]
@@ -213,7 +212,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 ::: {.column width="40%"}
 -   Landtransport
     -   Menschen
-    -   Lasttieren
+    -   Lasttiere
     -   Räder
 -   Wassertransport
     -   Trift
@@ -237,10 +236,10 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 -   Trift
     -   schwimmendes Holz
     -   flussabwärts
-    -   kleine Wasserwegen
+    -   kleine Wasserwege
     -   Schifffahrt nicht möglich
 -   Flößerei
-    -   Zusammengebunden Holz
+    -   Zusammengebundes Holz
     -   flussabwärts
 -   Schifffahrt
     -   flussabwärts & -aufwärts
@@ -255,7 +254,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 :::
 :::
 
-## Wassertransport von Holz in die römischer Zeit
+## Wassertransport von Holz in der römischen Zeit
 
 ::: columns
 ::: {.column width="40%"}
@@ -265,7 +264,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
     -   Kaum Hinweise [z.B. @amiet1952]
 -   Schifffahrt
     -   Viele Hinweise
-    -   Prahme Zwammerdamtype
+    -   Prahmen Zwammerdamtype
 :::
 
 ::: {.column width="60%"}
@@ -290,7 +289,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 ::: {.column width="50%"}
 -   Eiche sinkt
 -   Flößerei:
-    -   oft zusammen mit Nadelholz gebunden
+    -   oft zusammen gebunden mit Nadelholz 
     -   Tragtannen
 -   Nadelholz fehlt meistens in archäologische Kontexten
 :::
@@ -336,7 +335,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 :::
 :::
 
-# Schluss {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
+# Fazit {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
 
 
 ## Fazit: die römische Holzbeschaffung
@@ -348,14 +347,14 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 
 ### Methode
 
--   Dendrochronologische daten
--   Netzwerken
+-   Dendrochronologische Daten
+-   Netzwerke
 
 ### Herkunft
 
--   Lokal = Normahl
--   Provinziale Projekten \> Holz aus der Provinz
--   Holz auserhalb der Provinz: nur Speziell
+-   Lokal = Normal
+-   Provinziale Projekte \> Holz aus der Provinz
+-   Holz ausserhalb der Provinz: Ausnahme 
 
 ### Transport
 
@@ -365,7 +364,7 @@ Herkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of 
 
 ### Produktion
 
--   Vier Systemen
+-   Vier Systeme
 
 :::
 
