@@ -6,7 +6,7 @@ Mainz: “Versorgungsnetzwerke: Das römische Bauwesen in Mainz und Trier”
 at the Leiza on October 22, 2026. For the complete program see:
 <https://www.leiza.de/forschung/forschungsfelder/wechselwirkungen-zwischen-menschen-und-umwelten/konferenz-versorgungsnetzwerke>
 
-The presentation is largely based on (Visser 2025)
+The presentation is largely based on my dissertation (Visser 2025).
 
 # References
 
