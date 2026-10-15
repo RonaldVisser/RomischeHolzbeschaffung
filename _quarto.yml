@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport"
+  #site-url: "https://github.com/RonaldVisser/RelatingRomanRings_defense"
+  #repo-url: https://github.com/RonaldVisser/RelatingRomanRings_defense
+
+  page-footer:
+    right: "This website is built with [Quarto](https://quarto.org/)."
+    left: "&copy; Ronald Visser, 2026 (CC-By)"
+
+  navbar:
+    search: true
+    right:
+      - icon: mastodon
+        href: https://akademienl.social/@RonaldVisser
+      - icon: github
+#        menu:
+#          - text: Source Code
+#            href: https://github.com/RonaldVisser/RelatingRomanRings_defense
+#          - text: Report a bug
+#            href: https://github.com/RonaldVisser/RelatingRomanRings_defense/issues
+    left:
+      - href: index.qmd
+        text: Presentation
+      
+format:
+  html:
+    theme:
+      light: [theme]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+filters:
+  - quarto
+
+
+
