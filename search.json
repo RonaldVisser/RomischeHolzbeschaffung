@@ -4,7 +4,7 @@
     "href": "index.html#inhalt",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Inhalt",
-    "text": "Inhalt\n\n\n\nHolz in der römischer Zeit\nDaten und Interdizicplinarität\nHerkunft: Dendroprovenance\nNetzwerkanalyse Jahrringdaten\nArchäologische Interpretation\nHolztransport\nAbschluss\n\n\n\n\n\nLink to this presentation"
+    "text": "Inhalt\n\n\n\nHolz in der römischer Zeit\nDaten und Interdisziplinarität\nHerkunft: Dendroprovenance\nNetzwerkanalyse Jahrringdaten\nArchäologische Interpretation\nHolztransport\nAbschluss\n\n\n\n\n\nLink to this presentation"
   },
   {
     "objectID": "index.html#holz-primäre-ressource",
@@ -18,7 +18,7 @@
     "href": "index.html#römisches-holz",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Römisches Holz",
-    "text": "Römisches Holz\n\n\nDas Problem\n\nZahlreiche Holzfunde aus die römischer Zeit\nFundort genau dokumentiert\nHolzherkunft (Wachstumsregion) unbekannt\n\nForschungsfrage\n\nWie war die römische Holzbeschaffung während die erste vier Jahrhunderten organisiert in Nordwesteuropa?\n\nHerkunft\nTransport\n\n\n\n\n\n\n(Quelle: Visser 2025: 01.01)"
+    "text": "Römisches Holz\n\n\nDas Problem\n\nZahlreiche Holzfunde aus die römischer Zeit\nFundort genau dokumentiert\nHolzherkunft (Wachstumsregion) unbekannt\n\nForschungsfrage\n\nWie war die römische Holzbeschaffung während der ersten vier Jahrhunderte in Nordwesteuropa organisiert?\n\nHerkunft\nTransport\n\n\n\n\n\n\n(Quelle: Visser 2025: 01.01)"
   },
   {
     "objectID": "index.html#interdisziplinarität",
@@ -46,7 +46,7 @@
     "href": "index.html#wachstum-der-jahresringen",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Wachstum der Jahresringen:",
-    "text": "Wachstum der Jahresringen:\n\n\n\nJährlich wachst ein ring (Kambium: Aussenseite des Bäumes)\nJahrringbreite wird beeinflusst durch\n\nBodem\nKlima\nLokale Faktoren\nWaldstörungen\n\nWachstum: Frühjahr bis Herbst"
+    "text": "Wachstum der Jahresringen:\n\n\n\nJährlich wachst ein Ring (Kambium: Aussenseite des Bäumes)\nJahrringbreite wird beeinflusst durch\n\nBodem\nKlima\nLokale Faktoren\n\nWachstum: Frühjahr bis Herbst"
   },
   {
     "objectID": "index.html#lebensgeschichte-archaeologisches-holz",
@@ -56,32 +56,32 @@
     "text": "Lebensgeschichte archaeologisches Holz\n\nLife history of archaeological wood (Quelle: Visser 2025: 03.05)"
   },
   {
-    "objectID": "index.html#dendroprovenance-herkunftbestimmung",
-    "href": "index.html#dendroprovenance-herkunftbestimmung",
+    "objectID": "index.html#dendroprovenance-herkunftsbestimmung",
+    "href": "index.html#dendroprovenance-herkunftsbestimmung",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Dendroprovenance (Herkunftbestimmung)",
-    "text": "Dendroprovenance (Herkunftbestimmung)\nHerkunft von Bäume/Holz meistens bestimmt auf statistische Übereinstimmung of Jahrringkurven mit (regional)Kalender\nProblemen\n\nOft basiert auf nur ein statistische Wert\nSynchronisierung von nur ein Jahrringkurve\nBig data -&gt; Komplex\nclustering: common interval oft Schwierig"
+    "section": "Dendroprovenance (Herkunftsbestimmung)",
+    "text": "Dendroprovenance (Herkunftsbestimmung)\nHerkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung der Jahrringkurven mit (regionalen) Kalendern\nProblemen\n\nOft basiert auf einen einzigen statistische Wert\nOft nur ein Kontext\nBig data -&gt; komplex\nclustering: common interval oft schwierig"
   },
   {
-    "objectID": "index.html#netzwerken-zum-herkunftbestimmung",
-    "href": "index.html#netzwerken-zum-herkunftbestimmung",
+    "objectID": "index.html#netzwerke-zur-herkunftsbestimmung",
+    "href": "index.html#netzwerke-zur-herkunftsbestimmung",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Netzwerken zum Herkunftbestimmung",
-    "text": "Netzwerken zum Herkunftbestimmung\n\n(Quelle: Visser 2025: 08.10)"
+    "section": "Netzwerke zur Herkunftsbestimmung",
+    "text": "Netzwerke zur Herkunftsbestimmung\n\n(Quelle: Visser 2025: 08.10)"
   },
   {
-    "objectID": "index.html#dendrochronologische-netzwerken",
-    "href": "index.html#dendrochronologische-netzwerken",
+    "objectID": "index.html#dendrochronologische-netzwerke",
+    "href": "index.html#dendrochronologische-netzwerke",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Dendrochronologische Netzwerken",
-    "text": "Dendrochronologische Netzwerken\n\n\n\nNetzwerkknoten:\n\nFundortkalender (Dendrochronologische Daten)\n\nNetwwerkkanten:\n\nstatistische Übereinstimmung\n\nKorrelation (r ≥ 0,5)\n\nÜberlappung: Jahrringbreiten (n ≥ 50)\nSGC (Verbesserung der Gleichläufigkeit: ≥ 70% (Visser 2021))\nWahrscheinlichkeit (Probability of exceedence: p &lt;= 0.0001)\n\n\n\n\n\n\n(Quelle: Visser 2025: 09.03)"
+    "section": "Dendrochronologische Netzwerke",
+    "text": "Dendrochronologische Netzwerke\n\n\n\nNetzwerkknoten:\n\nFundortkalender (Dendrochronologische Daten)\n\nNetzwerkkanten:\n\nstatistische Übereinstimmung\n\nKorrelation (r ≥ 0,5)\n\nÜberlappung: Anzahl Jahrringbreiten (n ≥ 50)\nSGC (Verbesserung der Gleichläufigkeit: ≥ 70% (Visser 2021))\nWahrscheinlichkeit (Probability of exceedence: p &lt;= 0.0001)\n\n\n\n\n\n\n(Quelle: Visser 2025: 09.03)"
   },
   {
-    "objectID": "index.html#herkunftbestimmung-mit-netzwerke",
-    "href": "index.html#herkunftbestimmung-mit-netzwerke",
+    "objectID": "index.html#herkunftsbestimmung-mit-netzwerken",
+    "href": "index.html#herkunftsbestimmung-mit-netzwerken",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Herkunftbestimmung mit Netzwerke",
-    "text": "Herkunftbestimmung mit Netzwerke\n\n\n\nNah in Netzwerk = ähnliche Wachstumbedingungen\nCommunities haben ähnliche Wachstumbedingungen\nRaumliche Beziehungen / Distanz\nKontexten\n\n\n(Figure Quelle: Visser 2025: 09.03)"
+    "section": "Herkunftsbestimmung mit Netzwerken",
+    "text": "Herkunftsbestimmung mit Netzwerken\n\n\n\nNah im Netzwerk = ähnliche Wachstumsbedingungen\nCommunities haben ähnliche Wachstumsbedingungen\nRäumliche Beziehungen / Distanz\nKontexte\n\n\n(Figure Quelle: Visser 2025: 09.03)"
   },
   {
     "objectID": "index.html#herkunft-and-transportdistanz",
@@ -102,21 +102,21 @@
     "href": "index.html#transport-1",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Transport",
-    "text": "Transport\n\n\n\nLandtransport\n\nMenschen\nLasttieren\nRäder\n\nWassertransport\n\nTrift\nFlößerei\nSchifffahrt\n\n\n\n\n\n\nZwei-Rad-Rückekarren (NL: Mallejan), Maler: Anton Mauve (1880: https://collection.carnegieart.org/objects/dfdba2a2-a4bc-41d2-8e93-d5a0c7be8bfc)\n\n\n\n\n\n\nFlößerei auf der Sulm bei Gasselsdorf (1950): https://viewer.onb.ac.at/10C31879"
+    "text": "Transport\n\n\n\nLandtransport\n\nMenschen\nLasttiere\nRäder\n\nWassertransport\n\nTrift\nFlößerei\nSchifffahrt\n\n\n\n\n\n\nZwei-Rad-Rückekarren (NL: Mallejan), Maler: Anton Mauve (1880: https://collection.carnegieart.org/objects/dfdba2a2-a4bc-41d2-8e93-d5a0c7be8bfc)\n\n\n\n\n\n\nFlößerei auf der Sulm bei Gasselsdorf (1950): https://viewer.onb.ac.at/10C31879"
   },
   {
     "objectID": "index.html#wassertransport",
     "href": "index.html#wassertransport",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Wassertransport",
-    "text": "Wassertransport\n\n\n\nTrift\n\nschwimmendes Holz\nflussabwärts\nkleine Wasserwegen\nSchifffahrt nicht möglich\n\nFlößerei\n\nZusammengebunden Holz\nflussabwärts\n\nSchifffahrt\n\nflussabwärts & -aufwärts\n\n\n\n\n\n\nTrift (Kaiserklamm: https://de.wikipedia.org/wiki/Datei:Holztrift_Kaiserklamm.JPG)\n\n\n\n\n\n\nGeschleppter Holz am Fraser River in Kanada (Tony Hisgett: https://www.flickr.com/photos/hisgett/220279395)"
+    "text": "Wassertransport\n\n\n\nTrift\n\nschwimmendes Holz\nflussabwärts\nkleine Wasserwege\nSchifffahrt nicht möglich\n\nFlößerei\n\nZusammengebundes Holz\nflussabwärts\n\nSchifffahrt\n\nflussabwärts & -aufwärts\n\n\n\n\n\n\nTrift (Kaiserklamm: https://de.wikipedia.org/wiki/Datei:Holztrift_Kaiserklamm.JPG)\n\n\n\n\n\n\nGeschleppter Holz am Fraser River in Kanada (Tony Hisgett: https://www.flickr.com/photos/hisgett/220279395)"
   },
   {
-    "objectID": "index.html#wassertransport-von-holz-in-die-römischer-zeit",
-    "href": "index.html#wassertransport-von-holz-in-die-römischer-zeit",
+    "objectID": "index.html#wassertransport-von-holz-in-der-römischen-zeit",
+    "href": "index.html#wassertransport-von-holz-in-der-römischen-zeit",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Wassertransport von Holz in die römischer Zeit",
-    "text": "Wassertransport von Holz in die römischer Zeit\n\n\n\nTrift\n\nKeine Hinweise\n\nFlößerei\n\nKaum Hinweise (z.B. Amiet 1952)\n\nSchifffahrt\n\nViele Hinweise\nPrahme Zwammerdamtype\n\n\n\n\n\n\nZwammerdam 2 in 2021 in Archeon (Fotograf: Autor)"
+    "section": "Wassertransport von Holz in der römischen Zeit",
+    "text": "Wassertransport von Holz in der römischen Zeit\n\n\n\nTrift\n\nKeine Hinweise\n\nFlößerei\n\nKaum Hinweise (z.B. Amiet 1952)\n\nSchifffahrt\n\nViele Hinweise\nPrahmen Zwammerdamtype\n\n\n\n\n\n\nZwammerdam 2 in 2021 in Archeon (Fotograf: Autor)"
   },
   {
     "objectID": "index.html#eichen-und-flößerei",
@@ -130,7 +130,7 @@
     "href": "index.html#eichen-und-flößerei-1",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Eichen und Flößerei",
-    "text": "Eichen und Flößerei\n\n\n\nEiche sinkt\nFlößerei:\n\noft zusammen mit Nadelholz gebunden\nTragtannen\n\nNadelholz fehlt meistens in archäologische Kontexten\n\n\n\n\n\nTragtanne am Rhein in 19. Jahrhundert (Mohr 1897)"
+    "text": "Eichen und Flößerei\n\n\n\nEiche sinkt\nFlößerei:\n\noft zusammen gebunden mit Nadelholz\nTragtannen\n\nNadelholz fehlt meistens in archäologische Kontexten\n\n\n\n\n\nTragtanne am Rhein in 19. Jahrhundert (Mohr 1897)"
   },
   {
     "objectID": "index.html#flößerei-oder-schifffahrt",
@@ -151,7 +151,7 @@
     "href": "index.html#fazit-die-römische-holzbeschaffung",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Fazit: die römische Holzbeschaffung",
-    "text": "Fazit: die römische Holzbeschaffung\n\n\n\nMethode\n\nDendrochronologische daten\nNetzwerken\n\nHerkunft\n\nLokal = Normahl\nProvinziale Projekten &gt; Holz aus der Provinz\nHolz auserhalb der Provinz: nur Speziell\n\nTransport\n\nWassertransport\nFlößerei?\nSchifffahrt: Zwammerdamschiffe\n\nProduktion\n\nVier Systemen\n\n\n\n\n\n\n(Quelle: Visser 2025: 10.04)\n\n\n\n\n\nPresentation: https://ronaldvisser.github.io/RomischeHolzbeschaffung/"
+    "text": "Fazit: die römische Holzbeschaffung\n\n\n\nMethode\n\nDendrochronologische Daten\nNetzwerke\n\nHerkunft\n\nLokal = Normal\nProvinziale Projekte &gt; Holz aus der Provinz\nHolz ausserhalb der Provinz: Ausnahme\n\nTransport\n\nWassertransport\nFlößerei?\nSchifffahrt: Zwammerdamschiffe\n\nProduktion\n\nVier Systeme\n\n\n\n\n\n\n(Quelle: Visser 2025: 10.04)\n\n\n\n\n\nPresentation: https://ronaldvisser.github.io/RomischeHolzbeschaffung/"
   },
   {
     "objectID": "index.html#references",
