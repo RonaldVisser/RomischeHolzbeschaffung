@@ -38,8 +38,10 @@ format:
 
 https://ronaldvisser.github.io/
 RomischeHolzbeschaffung/ 
+[@Visser2026]
 
-![Link to this presentation](images/qr_presentation.png)
+![Slides](images/qr_presentation.png)
+
 
 :::
 :::
