@@ -11,14 +11,14 @@
     "href": "index.html#holz-primäre-ressource",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Holz: primäre Ressource",
-    "text": "Holz: primäre Ressource\n\n\n\n\nErneuerbar: wachst im Wald\nPrimäre Ressource für z.B.\n\nBau\nInfrastruktur\nHeating\nTools\n\n\n\n\n\n\n(Quelle: Visser 2025: 04.05)\n\n\n\n\n\n\n(Quelle: Visser 2025: 06.07)"
+    "text": "Holz: primäre Ressource\n\n\n\n\nErneuerbar: wachst im Wald\nPrimäre Ressource für z.B.\n\nBau\nInfrastruktur\nHeizung\nGeräte\nSchiffe\n\n\n\n\n\n\n(Quelle: Visser 2025: 04.05)\n\n\n\n\n\n\n(Quelle: Visser 2025: 06.07)"
   },
   {
     "objectID": "index.html#römisches-holz",
     "href": "index.html#römisches-holz",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Römisches Holz",
-    "text": "Römisches Holz\n\n\nDas Problem\n\nZahlreiche Holzfunde aus die römischer Zeit\nFundort genau dokumentiert\nHolzherkunft (Wachstumsregion) unbekannt\n\nForschungsfrage\n\nWie war die römische Holzbeschaffung während der ersten vier Jahrhunderte in Nordwesteuropa organisiert?\n\nHerkunft\nTransport\n\n\n\n\n\n\n(Quelle: Visser 2025: 01.01)"
+    "text": "Römisches Holz\n\n\nDas Problem\n\nZahlreiche Holzfunde aus die römischer Zeit\nFundort genau dokumentiert\nHolzherkunft (Wachstumsregion) unbekannt\n\nForschungsfrage\n\nWie war die römische Holzbeschaffung während der ersten vier Jahrhunderte in Nordwesteuropa organisiert?\n\nHerkunft\nTransport\nProduktion\n\n\n\n\n\n\n(Quelle: Visser 2025: 01.01)"
   },
   {
     "objectID": "index.html#interdisziplinarität",
@@ -26,6 +26,20 @@
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Interdisziplinarität",
     "text": "Interdisziplinarität\n\n(Quelle: Visser 2025: 03.02)"
+  },
+  {
+    "objectID": "index.html#produktion-forstwirtschaft",
+    "href": "index.html#produktion-forstwirtschaft",
+    "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
+    "section": "Produktion: Forstwirtschaft?",
+    "text": "Produktion: Forstwirtschaft?\n\n\nHinweise und beweise:\n\nKahlschlag\nPlenterwald (Selektion)\nSchlagholz\nAgrarforstwirtschaft\n\n(sehe auch: Visser 2010, 2025)\n\n\n\n\nKahlschlag im Sauerland (Visser 2025: 04.02)\n\n\n\n\n\nSchlagholz in die Niederlande (Visser 2025: 04.05)"
+  },
+  {
+    "objectID": "index.html#interdisziplinarität-herkunft-und-dendrochronologie",
+    "href": "index.html#interdisziplinarität-herkunft-und-dendrochronologie",
+    "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
+    "section": "Interdisziplinarität: Herkunft und Dendrochronologie",
+    "text": "Interdisziplinarität: Herkunft und Dendrochronologie\n\n(Quelle: Visser 2025: 03.02)"
   },
   {
     "objectID": "index.html#dendrochronologische-daten-bias",
@@ -60,7 +74,7 @@
     "href": "index.html#dendroprovenance-herkunftsbestimmung",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Dendroprovenance (Herkunftsbestimmung)",
-    "text": "Dendroprovenance (Herkunftsbestimmung)\nHerkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung der Jahrringkurven mit (regionalen) Kalendern\nProblemen\n\nOft basiert auf einen einzigen statistische Wert\nOft nur ein Kontext\nBig data -&gt; komplex\nclustering: common interval oft schwierig"
+    "text": "Dendroprovenance (Herkunftsbestimmung)\nHerkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung der Jahrringkurven mit (regionalen) Kalendern\nProblem\n\nOft basiert auf einen einzigen statistische Wert\nOft nur ein Kontext\nBig data -&gt; komplex\nclustering: common interval oft schwierig\n\nLösung: Netzwerkanalyse"
   },
   {
     "objectID": "index.html#netzwerke-zur-herkunftsbestimmung",
@@ -140,18 +154,11 @@
     "text": "Flößerei oder Schifffahrt?\n\n\n\nAttribut\nSchifffahrt\nFlößerei\n\n\n\n\nRudern\nJa\nMöglich\n\n\nSegeln\nJa\nJa\n\n\nTreideln\nJa\nJa\n\n\nSteuern\nEinfach\nSchwieriger\n\n\nGebrauch\nMerhweggebrauch\nEinweggebrauch\n\n\nLadung\nFrachtraum\nEiche braucht Tanne"
   },
   {
-    "objectID": "index.html#produktion-forstwirtschaft",
-    "href": "index.html#produktion-forstwirtschaft",
-    "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
-    "section": "Produktion: Forstwirtschaft?",
-    "text": "Produktion: Forstwirtschaft?\n\n\n\nKahlschlag\nPlenterwald (Selektion)\nSchlagholz\nAgrarforstwirtschaft\n\n(Sehe auch: Visser 2010, 2025)\n\n\n\n\nKahlschlag im Sauerland (Visser 2025: 04.02)\n\n\n\n\n\nSchlagholz in die Niederlande (Visser 2025: 04.05)"
-  },
-  {
     "objectID": "index.html#fazit-die-römische-holzbeschaffung",
     "href": "index.html#fazit-die-römische-holzbeschaffung",
     "title": "Die römische Holzbeschaffung aus interdisziplinärer Sicht: Herkunft und Transport",
     "section": "Fazit: die römische Holzbeschaffung",
-    "text": "Fazit: die römische Holzbeschaffung\n\n\n\nMethode\n\nDendrochronologische Daten\nNetzwerke\n\nHerkunft\n\nLokal = Normal\nProvinziale Projekte &gt; Holz aus der Provinz\nHolz ausserhalb der Provinz: Ausnahme\n\nTransport\n\nWassertransport\nFlößerei?\nSchifffahrt: Zwammerdamschiffe\n\nProduktion\n\nVier Systeme\n\n\n\n\n\n\n(Quelle: Visser 2025: 10.04)\n\n\n\n\n\nPresentation: https://ronaldvisser.github.io/RomischeHolzbeschaffung/"
+    "text": "Fazit: die römische Holzbeschaffung\n\n\n\nMethode\n\nDendrochronologische Daten\nNetzwerke\n\nHerkunft\n\nLokal = Normal\nProvinziale Projekte &gt; Holz aus der Provinz\nHolz ausserhalb der Provinz: Ausnahme\n\nTransport\n\nWassertransport\nFlößerei?\nSchifffahrt: Zwammerdamschiffe\n\nProduktion\n\nVier Systeme\n\n\n\n\n\n\n(Quelle: Visser 2025: 10.04)\n\n\n\n\n\nPresentation mit Literatuur: https://ronaldvisser.github.io/RomischeHolzbeschaffung/"
   },
   {
     "objectID": "index.html#references",
