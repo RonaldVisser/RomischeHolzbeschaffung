@@ -17,6 +17,7 @@ format:
       data-background-opacity: "0.4"
     css: styles.css
     tbl-cap-location: bottom
+    slide-number: c/t
 ---
 
 ## Inhalt
@@ -33,7 +34,13 @@ format:
 :::
 
 ::: {.column width="25%"}
+
+
+https://ronaldvisser.github.io/
+RomischeHolzbeschaffung/ 
+
 ![Link to this presentation](images/qr_presentation.png)
+
 :::
 :::
 
