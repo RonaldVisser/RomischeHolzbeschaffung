@@ -30,7 +30,7 @@ format:
 -   Netzwerkanalyse Jahrringdaten
 -   Archäologische Interpretation
 -   Holztransport
--   Abschluss
+-   Zusammenfassung 
 :::
 
 ::: {.column width="25%"}
@@ -74,7 +74,7 @@ RomischeHolzbeschaffung/
 ::: {.column width="60%"}
 #### Das Problem
 
--   Zahlreiche Holzfunde aus die römischer Zeit
+-   Zahlreiche Holzfunde aus der römischer Zeit
 -   Fundort genau dokumentiert
 -   Holzherkunft (Wachstumsregion) unbekannt
 
