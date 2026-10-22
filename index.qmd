@@ -386,4 +386,4 @@ Herkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung 
 :::
 :::
 
-## References {style="font-size: 80%;"}
+## Literatur {style="font-size: 80%;"}
