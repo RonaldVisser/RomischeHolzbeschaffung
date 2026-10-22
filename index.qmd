@@ -349,9 +349,9 @@ Herkunft von Bäumen/Holz meistens bestimmt durch statistische Übereinstimmung 
 | Gebrauch | Merhweggebrauch | Einweggebrauch      |
 | Ladung   | Frachtraum      | Eiche braucht Tanne |
 
-# Fazit {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
+# Zusammenfassung {.center background-image="images/00_Front_no_text_20250502.png" background-opacity="0.4"}
 
-## Fazit: die römische Holzbeschaffung
+## Die römische Holzbeschaffung
 
 ::: columns
 ::: {.column width="60%"}
